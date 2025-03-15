@@ -1,6 +1,6 @@
 import React from "react";
-import "bootstrap/dist/css/bootstrap.min.css"; // Import Bootstrap styles
-import PlayersList from "./PlayersList"; // Import PlayersList component
+import "bootstrap/dist/css/bootstrap.min.css"; //Bootstrap styles
+import PlayersList from "./PlayersList"; // PlayersList component
 
 function App() {
   return (
